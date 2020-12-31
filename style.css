@@ -44,16 +44,18 @@ body {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
- .part-1 h3 {
+ .part-1 h1 {
     font-weight: 900;
     color: hsl(179, 62%, 43%);
     padding-top: -4px;
-    padding-bottom: 20px;
+    padding-bottom: 18px;
+     font-size: 20px;
 }
-.part-1 h4 {
+.part-1 h2 {
     font-weight: 700;
     color: hsl(71, 73%, 54%);
-    padding-bottom: 20px;
+    padding-bottom: 18px;
+    font-size: 20px;
 }
 
 
@@ -124,7 +126,7 @@ body {
     padding-bottom: 12px;
 }
 
-.part-3 p {
+.part-3 li {
     line-height: 1.4em;
 }
 
