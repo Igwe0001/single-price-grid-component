@@ -141,6 +141,7 @@ body {
         justify-content: center;
         align-content: center;
         height: 100%;
+        margin: 6em auto;
     }
 
     .sub-part {
