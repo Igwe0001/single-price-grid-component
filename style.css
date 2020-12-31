@@ -40,7 +40,6 @@ body {
 .part-1 {
     grid-area: part-1;
     background-color: white;
-    font-weight: 400;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -49,7 +48,7 @@ body {
     color: hsl(179, 62%, 43%);
     padding-top: -4px;
     padding-bottom: 18px;
-     font-size: 20px;
+     font-size: 22px;
 }
 .part-1 h2 {
     font-weight: 700;
